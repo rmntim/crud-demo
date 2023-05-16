@@ -21,12 +21,12 @@ $ ./crud-demo
 
 ```json
 {
-  "id": string,
-  "isbn": string,
-  "title": string,
+  "id": "your value",
+  "isbn": "your value",
+  "title": "your value",
   "director": {
-    "firstname": string,
-    "lastname": string
+    "firstname": "your value",
+    "lastname": "your value"
   }
 }
 ```
